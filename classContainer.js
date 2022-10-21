@@ -7,6 +7,8 @@ class Contenedor {
   getAll() {
     //fs.promises.readFile('')
     //JSON.parse
+    //test
+
     return [];
   }
 }
